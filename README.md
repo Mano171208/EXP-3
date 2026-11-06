@@ -41,4 +41,5 @@ Tabulation:2
 
 RESULT:
 Thus the staircase wiring is connected and tested.
-Result:Thus the staircase wiring is connected and tested.
+
+RESULT:Thus the staircase wiring is connected and tested.
