@@ -49,19 +49,24 @@ switch2
 
 Direct connection (XNOR):
 CIRCUIT DIAGRAM: 
+
 <img width="634" height="296" alt="image" src="https://github.com/user-attachments/assets/390cc9ed-4422-4dbc-a7eb-9a1073229dad" />
 <img width="622" height="284" alt="image" src="https://github.com/user-attachments/assets/e6ad233e-2027-41cb-9548-5a8975e76aa2" />
 
 Tabulation:1
+
+
 <img width="555" height="522" alt="Table 1" src="https://github.com/user-attachments/assets/43d5d5a6-f5ee-4616-99a7-1e9071dcdc49" />
 
 	
 Cross connection (NOR): 
 CIRCUIT DIAGRAM:
+
 <img width="630" height="220" alt="image" src="https://github.com/user-attachments/assets/f67be599-f39c-4617-a8ef-f61e88a14545" />
 <img width="635" height="224" alt="image" src="https://github.com/user-attachments/assets/60e823cf-b863-4980-b5c5-01c67f896a54" />
 
 Tabulation:2
+
 <img width="555" height="522" alt="Table 1" src="https://github.com/user-attachments/assets/b09be242-4980-4031-bc89-c00f4a59744d" />
 
 RESULT:
