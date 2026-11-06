@@ -5,29 +5,7 @@ EXPT NO: 3				STAIR CASE WIRING
 AIM
  To control the status of the given lamp by using two–way switches. 
 APPARATUS REQUIRED:
-S. No.	Name of the Apparatus	Range / Type	Quantity
-1	Incandescent Lamp	60 W	1 No.
-2	Lamp Holder	Pendant Type	1 No.
-3	SPDT Switch	230 V, 5 A	2 Nos.
-4	Wires	1/18"	As per requirement
-5	P.V.C. Pipe	1/4"	As per requirement
-6	Wooden Board	-	1 No.
-7	Round Block	-	1 No.
-
-
-S. No.
-Name of the apparatus	
-Range / Type	
-Quantity
-
-1	Incandescent Lamp	60W	1 No.
-2	Lamp Holder	Pendent Type	1 No.
-3	SPDT Switch	230V,5A	2 Nos
-4	Wires	1/18”	As per requirement
-5	P.V.C Pipe	1/4"	As per requirement
-6	Wooden Board	-	1 No.
-7	Round block	-	1 No.
-
+<img width="576" height="318" alt="image" src="https://github.com/user-attachments/assets/891d83b8-2a0f-4f69-8cdf-ddd03e92e440" />
 
 Theory:
 •	A two way switch is installed near the first step of the stairs. The other two way switch is installed at the upper part where the stair ends.
@@ -35,6 +13,7 @@ Theory:
 •	The circuit can be used at the places like bed room where the person may  not  have  to  travel for switching off the light to the place from where the light is switched on.
 •	Two  numbers  of  two-way  switches  are  used  for  the  purpose.  The supply is given to the switch at the short circuited terminals.
 •	The  connection  to  the  light  point  is  taken  from  the  similar  short circuited  terminal  of  the   second  switch.   Order  two  independent terminals of each circuit are connected through  cables 
+
 PROCEDURE
 •  Place the accessories on the wiring board as per the circuit diagram.
 •  Place the P.V.C pipe and insert two wires into the P.V.C pipe.
@@ -48,10 +27,15 @@ switch2.
 •  Circuit is tested for all possible combination of switch positions.
 
 
-Direct connection: CIRCUIT DIAGRAM: 
+Direct connection (XNOR): CIRCUIT DIAGRAM: 
+<img width="634" height="296" alt="image" src="https://github.com/user-attachments/assets/390cc9ed-4422-4dbc-a7eb-9a1073229dad" />
+<img width="622" height="284" alt="image" src="https://github.com/user-attachments/assets/e6ad233e-2027-41cb-9548-5a8975e76aa2" />
+
 Tabulation:1
 	
-Cross connection: CIRCUIT DIAGRAM:
+Cross connection (NOR): CIRCUIT DIAGRAM:
+<img width="630" height="220" alt="image" src="https://github.com/user-attachments/assets/f67be599-f39c-4617-a8ef-f61e88a14545" />
+<img width="635" height="224" alt="image" src="https://github.com/user-attachments/assets/60e823cf-b863-4980-b5c5-01c67f896a54" />
 
 Tabulation:2
 
