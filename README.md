@@ -5,6 +5,15 @@ EXPT NO: 3				STAIR CASE WIRING
 AIM
  To control the status of the given lamp by using two–way switches. 
 APPARATUS REQUIRED:
+S. No.	Name of the Apparatus	Range / Type	Quantity
+1	Incandescent Lamp	60 W	1 No.
+2	Lamp Holder	Pendant Type	1 No.
+3	SPDT Switch	230 V, 5 A	2 Nos.
+4	Wires	1/18"	As per requirement
+5	P.V.C. Pipe	1/4"	As per requirement
+6	Wooden Board	-	1 No.
+7	Round Block	-	1 No.
+
 
 S. No.
 Name of the apparatus	
