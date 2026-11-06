@@ -1,4 +1,4 @@
-# EXP-3
+ # EXP-3
 EXPT NO: 3				STAIR CASE WIRING                     
 
  
@@ -66,7 +66,7 @@ CIRCUIT DIAGRAM:
 <img width="635" height="224" alt="image" src="https://github.com/user-attachments/assets/60e823cf-b863-4980-b5c5-01c67f896a54" />
 
 Tabulation:2
-<img width="522" height="1160" alt="WhatsApp Image 2026-11-06 at 9 33 57 PM" src="https://github.com/user-attachments/assets/b35d8500-5b84-4029-bce2-89b8271f9c06" />
+<img width="573" height="522" alt="Table 2" src="https://github.com/user-attachments/assets/5f7ac57a-b679-4e2d-b8b6-d8abc470a009" />
 
 RESULT:
 Thus the staircase wiring is connected and tested.
