@@ -66,6 +66,8 @@ CIRCUIT DIAGRAM:
 <img width="635" height="224" alt="image" src="https://github.com/user-attachments/assets/60e823cf-b863-4980-b5c5-01c67f896a54" />
 
 Tabulation:2
+
+
 <img width="573" height="522" alt="Table 2" src="https://github.com/user-attachments/assets/5f7ac57a-b679-4e2d-b8b6-d8abc470a009" />
 
 RESULT:
